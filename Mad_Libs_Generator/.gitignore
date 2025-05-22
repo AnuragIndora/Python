@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs and local files
+*.log
+*.sqlite3
+*.db
+*.pid
+
+# Streamlit cache and settings
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/
+
+# Docker files
+*.env
+docker-compose.override.yml
+
+# Local data files (user generated)
+data/history.json
+data/custom_story.json
+data/stories.json
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
