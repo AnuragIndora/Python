@@ -32,8 +32,8 @@ Perfect for language learners, kids, and creative minds looking for a laugh—or
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/mad-libs-generator.git
-   cd mad-libs-generator
+   git clone https://github.com/AnuragIndora/Python.git
+   cd Python/Mad_Libs_Generator/
    ```
 
 2. **Create a Virtual Environment (optional but recommended)**
